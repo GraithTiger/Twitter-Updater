@@ -1,0 +1,16 @@
+{
+  "name": "twitteraf-pm",
+  "fullName": "Twitter Updater",
+  "id": "jid1-mQ1qZoEXkYKv4Q",
+  "license": "MIT", 
+    "description": "Auto refresh the Twitter web page when at the top of the timeline", 
+    "engines": {
+        "firefox": ">=19.0", 
+		"palemoon": ">=19.0"
+    }, 
+    "author": "Jacob Fisher", 
+    "title": "Twitter Updater", 
+    "version": "0.9-pm", 
+    "main": "lib/main.js", 
+    "name": "twitteraf-pm"
+}
